@@ -1,5 +1,6 @@
 ## Naming Convention
 
+Penamaan yang deskriptif dan konsisten membuat perangkat lunak lebih mudah dibaca dan dipahami. Gunakan konvensi penamaan Swift yang dijelaskan dalam  [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/). Beberapa poin penting termasuk: 
 ### 1. Gunakan PascalCase untuk nama dan Protokol, dan lowerCaseCase untuk yang lainnya.
 
 ```swift
